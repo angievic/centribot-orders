@@ -1,6 +1,5 @@
 from django.test import TestCase
-from orders.models import Article,Order,OrderItem
-from django.test import Client
+from orders.models import Article,Order
 from django.urls import reverse
 
 
